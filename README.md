@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-abdul7544/abdul7544 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abdul Hadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
